@@ -1,116 +1,256 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: Marcos
+  LastName: Cárceles
   Photo: img/avatar.jpg
+  Motto:
+    Tag: I'm not saying it will be easy, I'm saying it will be worth it.
+    Link: https://imnotsaying.marcoscarceles.com/
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +34 620 19 30 67
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: me@marcoscarceles.com
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: marcoscarceles.com
+      Link: https://www.marcoscarceles.com
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Madrid, Spain
+    - Icon: fa fa-linkedin
+      Info: LinkedIn
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: I believe all engineers share a passion for perfection, build great products and build them right. In my early career, this led me towards developing technical skills around frameworks and tooling. During my years in the UK, I shifted my focus from what an individual could deliver to what a team or organization could accomplish. Lately, I have kept a balance between engineering, methodologies & team leadership and management.
 
-Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+Timeline:
+  - Type: Employment
+    Employer:
+      - Logo: tuenti.png
+        Name: Tuenti Technologies
+      - Logo: telefonica.png
+        Name: Telefónica
+    Place: Madrid
+    Country: es
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Tech Lead - Engineering Manager
+        Date: Jan 2018 - Present
+        Projects:
+          - Title: Global Checkout
+            Tagline: Telefónica's universal payment user experience, orchestrating payment and fulfillment; being highly integrable with multiple channels and providers.
+          - Title: Explore
+            Tagline: The primary digital showcase for commercial products and marketing material being the top engagement and revenue source.
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
+          - Technical Leadership for the two most ambitious products on the Telefónica CX area.
+          - Self-organised cross-functional Product Engineering Team development.
+          - Telefónica CX Competencies Framework definition for career progression.
+          - Leading adoption of a Continuous Improvement culture in the area through the promotion and facilitation of recurrent actionable retrospectives.
+          - Improving Engineering processes such as Interviewing, Remote Working and Performance Reviews.
+      - Title: Senior Software Engineer
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Full-stack software development (React + JVM/PHP distributed systems)
+          - Team Leadership and Project Management mentoring to less experienced Tech Leads.
+  - Type: Employment
+    Logo: endource.png
+    Place: London - Remote
+    Country: globe
+    Employer:
+      Logo: endource.png
+      Name: Endource
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Senior Full-Stack Engineer
+        Date: Jul 2014 - Feb 2017
+        Projects:
+          - Tagline: "Shop the press in a single place: The ultimate fashion catalogue; all products recommended on the best publications."
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+          - "Collaborative design and implementation of the Complete stack: from the VueJS front-end to the AWS continuous delivery platform through developing the Grails backend or core AWS Lambda microservices."
+          - Working on a team of three engineers from the start-up inception, in a fast-paced environment where minimising waste is crucial.
+          - Key contributions being Search & Recommendations and A/B testing engines, REST APIs, Image Recognition and Machine Learning based Universal Sizing.
+  - Type: Event
+    Date: Jul 2014
+    Description: Left UK and Sky seeking a remote job allowing me become a digital nomad on a 40.000 kilometeres long motorhome road trip around Latin America.
+  - Type: Employment
+    Employer:
+      - Name: Sky 
+        Logo: sky.png
+      - Name: Sky News
+        Logo: sky-news.png
+    Place: London
+    Country: uk
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Scrum Master
+        Date: Oct 2013 - Jul 2014
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Assembled the new Products team and established a collaborative and empowering environment across the area; educating and involving business teams and stakeholders on early and frequent engagement and continuous delivery, releasing high-quality products on aggressive budgets and schedules.
+      - Title: Senior Software Enginer - Freelance
+        Date: May 2013 - Oct 2013
+        Details: 
+          - Development of a flagship Grails / Angular publishing tool for Sky's primary multisite portal where editors could complete both content and layout on-page as users would see it.
+      - Title: Tech Lead - Freelance
+        Date: Dec 20122 - May 2013
+        Details:
+          - Delivery of Publishing Platform and Online Products during Sky's US expansion.
+          - Engineering team coaching and mentoring.
+          - Roadmap denition with Scrum Master and Product Owner and technical advice.
+      - Title: Vignette Architect - Freelance
+        Date: Sep 2010 - Dec 2011
+        Details:
+        - Led a team of Vignette CMS / J2EE experts to improve and stabilise the legacy publishing platform.
+  - Type: Employment
+    Employer:
+      Name: VASS-IT
+      Logo: vass-it.png
+    Place: London
+    Country: UK
+    Positions:
+      - Title: Principal Java Consultant
+        Date: Sep 2008 - Sep 2010
+        Details:
+          - Execution and technical guidance of multiple consultancy projects on Enterprise platforms.
+  - Type: Event
+    Date: Sep 2008
+    Description: Moved to the United Kingdom. A different engineering culture awaits.
+  - Type: Employment
+    Employer:
+      Name: VASS
+      Logo: vass.png
+    Place: Madrid
+    Country: es
+    Date: Sep 2006 - Sep 2008
+    Positions:
+      - Title: J2EE / Vignette Developer
+        Details:
+        - Analysis, design and development for several Java, J2EE / Vignette CMS projects.
+        - Delivery of large scale portals for enterprise and governmental.
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: Deep Learning Specialization
+    Logo: deeplearning.ai.png
+    Date: 2021
+  - Course: MSc in Software Engineering
+    Logo: uam.jpg
+    Place: Universidad Autónoma de Madrid
+    Date: 2001 - 2006
+
+OpenSource:
+  Intro: "I am a avid supporter of open source technologies, not only having used them on most of my products but actively supporting their communities. In the past I have, myself maintained and contributed to a few like:"
+  Projects:
+    - Name: https://github.com/puneetbehl/elasticsearch-grails-plugin
+      Link: https://github.com/puneetbehl/elasticsearch-grails-plugin
+      Description: Plugin allowing Elasticsearch to be used as a datasource for Grails ORM.
+    - Name: https://github.com/marcoscarceles/elasticsearch-lite
+      Link: https://github.com/marcoscarceles/elasticsearch-lite
+      Description: Resource lightweight alternative of the previous one for more seasoned Elastic users.
+    - Name: https://github.com/marcoscarceles/swagger-doc
+      Link: https://github.com/marcoscarceles/swagger-doc
+      Description: Swagger 2.0 Grails plugin to document REST API’s using just JAX-RS annotations.
 
 Skills:
-  - Family: Programming
-    Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
-    Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
+  Intro: "Having worked on a broad diversity of products, company types, cultures and technical stacks has helped me not only to get exposure to an equally broad set of skills but to become a quick learner and adaptable profile and establish these on sound engineering values and principles."
+  Items:
+    - Value: Scrum
+      Weight: XL
+    - Value: Extreme Programming
+      Weight: XL
+    - Value: Kanban
+      Weight: L
+    - Value: Facilitation
+      Weight: L
+    - Value: Continuous Delivery
+      Weight: L
+    - Value: Trust
+      Weight: L
+    - Value: Feedback
+      Weight: L
+    - Value: Groovy
+      Weight: L
+    - Value: Javascript
+    - Value: Git
+    - Value: Empowerment
+    - Value: Mentoring
+    - Value: Coaching
+    - Value: Nonviolent Communication
+    - Value: Active Listening
+    - Value: Conflict Management
+    - Value: Spring
+    - Value: Microservices
+    - Value: REST
+    - Value: AWS
+    - Value: Lambda
+    - Value: Serverless Framework
+    - Value: Elastic
+    - Value: MongoDB
+    - Value: VueJS
+    - Value: React
+    - Value: Spock
+    - Value: Geb
+    - Value: Gradle
+    - Value: Machine Learning
+    - Value: Python
+      Weight: S
+    - Value: Bash
+      Weight: S
+    - Value: Node.js
+      Weight: S
+    - Value: Swagger
+      Weight: S
+    - Value: PostreSQL
+      Weight: S
+    - Value: MySQL
+      Weight: S
+    - Value: AngularJS
+      Weight: S
+    - Value: JQuery
+      Weight: S
+    - Value: Sass
+      Weight: S
+    - Value: JUnit
+      Weight: S
+    - Value: Mocha
+      Weight: S
+    - Value: Linux
+      Weight: S
+    - Value: RHEL
+      Weight: S
+    - Value: Maven
+      Weight: S
+    - Value: Webpack
+      Weight: S
+    - Value: Docker
+      Weight: S
+    - Value: Convox
+      Weight: S
+    - Value: Kubernetes
+      Weight: S
+    - Value: Git
+      Weight: S
+    - Value: I can't believe you made it this far
+      Weight: S
+    - Value: Sense of humour
+      Weight: S
 
 Languages:
-  - Name: Portuguese
+  - Name: Spanish
     Level: Native
   - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
+    Level: C1
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Coursera's Machine Learning Certicate
+  - Scrum Alliance Certied Scrum Master
+  - Oracle Certied Java SE6 Programmer
+
+Recognitions:
+- "Twice Winner of BBC's #NewsHACK"
+- Tech Lead for “News Website of the Year 2013”
+- Grails48 2012 Hackathon special mention
+- Tech Lead for Oracle's 2010
+- "Enterprise 2.0 Blazer Award: Employee-Facing Portal"
+- Twice UAM representative for SWERC and CUPCAM
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+ - Tabletop Games
+ - Piano & Guitar
+ - Nature
+ - Hiking
+ - Padel Tennis
+ - Fitboxing
+ - 3D Printing
+ - Electronics

@@ -1,14 +1,14 @@
-baseURL = "https://example.com/"
-languageCode = "en-us"
+baseURL = "https://cv.marcoscarceles.com/"
+languageCode = "en-gb"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
-title = "Example - CV"
+title = "Marcos Cárceles - Resume"
 
 [params]
 colorDark = "#666"
 colorLight = "#fff"
 colorPageBackground = "#ddd"
-colorPrimary = "#e3bfb8"
+colorPrimary = "#0aa"
 colorPrimaryText = "#33333333"
 colorRightColumnBackground = "#f5f5f5"
 colorSecondary = "#aaa"
