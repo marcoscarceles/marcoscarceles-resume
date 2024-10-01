@@ -8,11 +8,10 @@ BasicInfo:
   Contacts:
     - Icon: fas fa-phone
       Info: +34 620 19 30 67
+      Link: tel:+34620193067
     - Icon: fas fa-envelope
       Info: me@marcoscarceles.com
-    # - Icon: fas fa-globe
-    #   Info: https://marcoscarceles.com
-    #   Link: https://www.marcoscarceles.com
+      Link: "mailto:me@marcoscarceles.com"
     - Icon: fas fa-map-marker-alt
       Info: Madrid, Spain
     - Icon: fab fa-linkedin
@@ -43,11 +42,11 @@ Timeline:
             Tagline: "Bring Goodnotes' Digital Paper experience to all popular platforms and dominate the stylus-based note-taking market."
         Details:
           - "Led the team to achieve **1M monthly active users**, **1M subscribers** and **4.0 week-on-week store ratings**, getting Goodnotes preloaded on Samsung devices since Unpack 2023"
-          - "Developed the team and product from a webviewer PoC built by 6 developers to to an area with four squads and 26 cross-functional members."
+          - "Developed the team and product from a webviewer PoC built by 6 developers to an area with four squads and 26 cross-functional members."
           - "Scaled the team while rapidly delivering value, establishing a strong product culture, and balancing ROI. Achieved results by aligning execution with product needs, ensuring team efficiency, fostering team dynamics, and supporting individuals' growth. I transitioned the team from a feature checklist approach to a goal-oriented mindset using OKRs."
           - "Excelled at achieving SLOs and SLAs, pioneering Operational Excellence at the company."
           - "In the *broader engineering organisation*, I fostered multiple initiatives:"
-          - "**On Talent**: Revisitng Engineering Career framework, Interview processes,  Onboarding plans and Performance Assessments."
+          - "**On Talent**: Revisiting Engineering Career framework, Interview processes,  Onboarding plans and Performance Assessments."
           - "**On Quality**: Test Case documentation on TestRail, dogfooding, test parties, and techniques such as Quality Assistance."
           - "**On Project Management**: Advocacy of cross-functional squads and task forces aiding collaboration, avoiding competing priorities, and promoting techniques like Go/No Go check-ins and PPP reports."
           - "**On Production Operations**: Championing Continuous Delivery and Observability, pioneering the establishment of SLIs, SLOs, and SLAs and Incident Management."
@@ -89,7 +88,7 @@ Timeline:
           - Title: Explore
             Tagline: "The primary digital showcase for commercial products and marketing material being the top engagement and revenue source."
         Details:
-          - Technical Leadership for the two most ambitious products on the Telefónica CX area.
+          - "Technical Leadership for the two most ambitious products in the Telefónica CX area. Delivering Explore V1 in an unprecedented 8-week timeline since team inception, following an iterative value delivery approach. Bridging business, product, and architecture gaps between intercontinental departments with Global Checkout."
           - Self-organised cross-functional Product Engineering Team development.
           - Telefónica CX Competencies Framework denition for career progression.
           - Leading adoption of a Continuous Improvement culture in the area through the promotion and facilitation of recurrent actionable retrospectives.
@@ -119,7 +118,7 @@ Timeline:
 
   - Type: Event
     Date: Jul 2014
-    Description: Left UK and Sky seeking a remote job allowing me become a digital nomad on a 40.000 kilometeres long motorhome road trip around Latin America.
+    Description: Embraced a digital nomad life as freelancer on a 40.000-kilometer-long motorhome journey around Latin America whilst laying the groundwork for Endource.com's innovative proposal.
   - Type: Employment
     Employer:
       - Name: Sky 
@@ -274,7 +273,7 @@ Languages:
     Level: C1
 
 Diplomas:
-  - Coursera's Machine Learning Certicate
+  - Coursera's Machine Learning Certificate
   - Scrum Alliance Certied Scrum Master
   - Oracle Certied Java SE6 Programmer
 
