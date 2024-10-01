@@ -26,9 +26,52 @@ BasicInfo:
       Link: https://x.com/MarcosCarceles
 
 
-Profile: I believe all engineers share a passion for perfection, build great products and build them right. In my early career, this led me towards developing technical skills around frameworks and tooling. During my years in the UK, I shifted my focus from what an individual could deliver to what a team or organization could accomplish. Lately, I have kept a balance between engineering, methodologies & team leadership and management.
+Profile: Like most, I started my career following a passion for technology and building great products, applying the right technology to solve the right problem. Working in Sky News in UK, I discovered the profound impact that the right culture, team dynamics, and leadership can have. So, I shifted my focus to building great teams around empowered individuals. Having developed versatility balancing technical and leadership roles in companies of a very different nature and maturity, I broadened my scope to help multiple teams and engineering organizations grow and thrive.
 
 Timeline:
+  - Type: Employment
+    Employer:
+      Logo: goodnotes-logo.svg
+      Name: Goodnotes
+    Place: Remote
+    Country: globe
+    Positions:
+      - Title: Senior Engineering Manager
+        Date: Jan 2022 - Sep 2024
+        Projects:
+          - Title: Cross-Platform (XP)
+            Tagline: "Bring Goodnotes' Digital Paper experience to all popular platforms and dominate the stylus-based note-taking market."
+        Details:
+          - "Led the team to achieve **1M monthly active users**, **1M subscribers** and **4.0 week-on-week store ratings**, getting Goodnotes preloaded on Samsung devices since Unpack 2023"
+          - "Developed the team and product from a webviewer PoC built by 6 developers to to an area with four squads and 26 cross-functional members."
+          - "Scaled the team while rapidly delivering value, establishing a strong product culture, and balancing ROI. Achieved results by aligning execution with product needs, ensuring team efficiency, fostering team dynamics, and supporting individuals' growth. I transitioned the team from a feature checklist approach to a goal-oriented mindset using OKRs."
+          - "Excelled at achieving SLOs and SLAs, pioneering Operational Excellence at the company."
+          - "In the *broader engineering organisation*, I fostered multiple initiatives:"
+          - "**On Talent**: Revisitng Engineering Career framework, Interview processes,  Onboarding plans and Performance Assessments."
+          - "**On Quality**: Test Case documentation on TestRail, dogfooding, test parties, and techniques such as Quality Assistance."
+          - "**On Project Management**: Advocacy of cross-functional squads and task forces aiding collaboration, avoiding competing priorities, and promoting techniques like Go/No Go check-ins and PPP reports."
+          - "**On Production Operations**: Championing Continuous Delivery and Observability, pioneering the establishment of SLIs, SLOs, and SLAs and Incident Management."
+          - "**On Growth Culture**: Active participant in establishing internship and mentoring programs, as well as other knowledge-sharing and networking practices such as book clubs, functional roundtables, and brown bags."
+  - Type: Employment
+    Employer:
+      Logo: eventbrite-logo.svg
+      Name: Eventbrite
+    Place: Madrid, Spain
+    Country: es
+    Positions:
+      - Title: Engineering Manager
+        Date: Apr 2021 - Jan 2022
+        Projects:
+          - Title: Checkout
+            Tagline: "Enable Event Creators offering delightful bespoke checkout experiences according to their business needs and streamlining the Attendee flow."
+        Details:
+          - "Delivered key user-facing projects on form management and regulatory tax compliance projects, removing blockers by identifying gaps in definition and cross-department coordination. Ultimately addressing them to eliminate delivery risks."
+          - "Improved overall team efficiency and predictability by identifying challenges on the team's SDLC, addressing goal setting, product definition, and estimations and providing the team with a framework for iterative value delivery."
+          - "Minimised the impact of sustained lack of Product Management roles and actively participated in its recruitment."
+          - "Championed Operational Excellence and Quality, providing guidelines for the e-commerce pillar and achieving remarkable results on Quality SLAs by establishing a continuous stream of production support, promoting team ownership and accountability."
+          - "Enabled the execution of Eventbrite's 3-Year Technical Roadmap, unblocking the migration of Eventbrite's critical systems (OrderService) by shifting the area mindset from the execution of technical tasks distributed among multiple teams to the collaborative achievement of iterative high-level goals based on the Use Cases."
+          - "Supported Eventbrite's talent growth, setting an example for personal development, hiring, and PIP execution, and established guidelines for internship projects."
+
   - Type: Employment
     Employer:
       - Logo: tuenti.png
@@ -38,23 +81,25 @@ Timeline:
     Place: Madrid
     Country: es
     Positions:
-      - Title: Tech Lead - Engineering Manager
-        Date: Jan 2018 - Present
+      - Title: Tech Lead / Engineering Manager
+        Date: Jan 2018 - Apr 2021
         Projects:
           - Title: Global Checkout
-            Tagline: Telefónica's universal payment user experience, orchestrating payment and fulfillment; being highly integrable with multiple channels and providers.
+            Tagline: "Telefónica's universal payment user experience, orchestrating payment and fulfillment; being highly integrable with multiple channels and providers."
           - Title: Explore
-            Tagline: The primary digital showcase for commercial products and marketing material being the top engagement and revenue source.
+            Tagline: "The primary digital showcase for commercial products and marketing material being the top engagement and revenue source."
         Details:
           - Technical Leadership for the two most ambitious products on the Telefónica CX area.
           - Self-organised cross-functional Product Engineering Team development.
-          - Telefónica CX Competencies Framework definition for career progression.
+          - Telefónica CX Competencies Framework denition for career progression.
           - Leading adoption of a Continuous Improvement culture in the area through the promotion and facilitation of recurrent actionable retrospectives.
           - Improving Engineering processes such as Interviewing, Remote Working and Performance Reviews.
+
       - Title: Senior Software Engineer
+        Date: Jan 2017 - May 2018
         Details:
-          - Full-stack software development (React + JVM/PHP distributed systems)
-          - Team Leadership and Project Management mentoring to less experienced Tech Leads.
+          - Full-stack software development (React + JVM/PHP distributed systems).
+          - Team Leadership and Management mentoring to less experienced Tech Leads.
   - Type: Employment
     Logo: endource.png
     Place: London - Remote
@@ -63,18 +108,18 @@ Timeline:
       Logo: endource.png
       Name: Endource
     Positions:
-      - Title: Senior Full-Stack Engineer
+      - Title: Senior Full-Stack Engineer - Freelance
         Date: Jul 2014 - Feb 2017
         Projects:
           - Tagline: "Shop the press in a single place: The ultimate fashion catalogue; all products recommended on the best publications."
         Details:
-          - "Collaborative design and implementation of the Complete stack: from the VueJS front-end to the AWS continuous delivery platform through developing the Grails backend or core AWS Lambda microservices."
-          - Working on a team of three engineers from the start-up inception, in a fast-paced environment where minimising waste is crucial.
-          - Key contributions being Search & Recommendations and A/B testing engines, REST APIs, Image Recognition and Machine Learning based Universal Sizing.
+          - "Collaborative design and implementation of the complete stack: from the VueJS front-end to the AWS continuous delivery platform through developing the Grails backend or core AWS Lambda microservices."
+          - "Working on a team of three engineers from the start-up inception, in a fast-paced environment where minimising waste is crucial."
+          - "Key contributions being Search & Recommendations and A/B testing engines, REST APIs, Image Recognition and Machine Learning based Universal Sizing."
+
   - Type: Event
     Date: Jul 2014
     Description: Left UK and Sky seeking a remote job allowing me become a digital nomad on a 40.000 kilometeres long motorhome road trip around Latin America.
-  - Type: Break
   - Type: Employment
     Employer:
       - Name: Sky 
@@ -84,24 +129,14 @@ Timeline:
     Place: London
     Country: uk
     Positions:
-      - Title: Scrum Master
+      - Title: Scrum Master / Engineering Manager
         Date: Oct 2013 - Jul 2014
         Details:
-          - Assembled the new Products team and established a collaborative and empowering environment across the area; educating and involving business teams and stakeholders on early and frequent engagement and continuous delivery, releasing high-quality products on aggressive budgets and schedules.
-      - Title: Senior Software Enginer - Freelance
-        Date: May 2013 - Oct 2013
+          - "Assembled the new Products team and established a collaborative and empowering environment across the area; educating and involving business teams and stakeholders on early and frequent engagement and continuous delivery, releasing high-quality products on aggressive budgets and schedules."
+      - Title: Technical Architect / Tech Lead - Freelance
+        Date: Sep 2010 - Oct 2013
         Details: 
-          - Development of a flagship Grails / Angular publishing tool for Sky's primary multisite portal where editors could complete both content and layout on-page as users would see it.
-      - Title: Tech Lead - Freelance
-        Date: Dec 20122 - May 2013
-        Details:
-          - Delivery of Publishing Platform and Online Products during Sky's US expansion.
-          - Engineering team coaching and mentoring.
-          - Roadmap denition with Scrum Master and Product Owner and technical advice.
-      - Title: Vignette Architect - Freelance
-        Date: Sep 2010 - Dec 2011
-        Details:
-        - Led a team of Vignette CMS / J2EE experts to improve and stabilise the legacy publishing platform.
+          - Technical leadership and Delivery of numerous Publishing Platforms and Sites
   - Type: Employment
     Employer:
       Name: VASS-IT
@@ -122,9 +157,9 @@ Timeline:
       Logo: vass.png
     Place: Madrid
     Country: es
-    Date: Sep 2006 - Sep 2008
     Positions:
       - Title: J2EE / Vignette Developer
+        Date: Sep 2006 - Sep 2008
         Details:
         - Analysis, design and development for several Java, J2EE / Vignette CMS projects.
         - Delivery of large scale portals for enterprise and governmental.
@@ -143,13 +178,10 @@ OpenSource:
   Projects:
     - Name: https://github.com/puneetbehl/elasticsearch-grails-plugin
       Link: https://github.com/puneetbehl/elasticsearch-grails-plugin
-      Description: Plugin allowing Elasticsearch to be used as a datasource for Grails ORM.
     - Name: https://github.com/marcoscarceles/elasticsearch-lite
       Link: https://github.com/marcoscarceles/elasticsearch-lite
-      Description: Resource lightweight alternative of the previous one for more seasoned Elastic users.
     - Name: https://github.com/marcoscarceles/swagger-doc
       Link: https://github.com/marcoscarceles/swagger-doc
-      Description: Swagger 2.0 Grails plugin to document REST API’s using just JAX-RS annotations.
 
 Skills:
   Intro: "Having worked on a broad diversity of products, company types, cultures and technical stacks has helped me not only to get exposure to an equally broad set of skills but to become a quick learner and adaptable profile and establish these on sound engineering values and principles."

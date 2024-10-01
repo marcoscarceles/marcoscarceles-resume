@@ -2,11 +2,17 @@ baseURL = "https://cv.marcoscarceles.com/"
 languageCode = "en-gb"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
-title = "Marcos Cárceles - Resume"
+title = "Marcos Cárceles - Resume 2024"
 
 enableRobotsTXT = true
 enableEmoji = true
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+[markup]
+defaultMarkdownHandler = 'goldmark'
+[markup.goldmark.renderer]
+unsafe = true
+
 
 [params]
 enableMetaTags = true
@@ -29,6 +35,6 @@ colorRightColumnBodyText = "#666"
 colorRightColumnIconPrimary = "#fff"
 colorRightColumnIconBackground = "#088"
 
-pages = 2
+pages = 3
 
 swapColumns = true
