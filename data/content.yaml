@@ -10,13 +10,21 @@ BasicInfo:
       Info: +34 620 19 30 67
     - Icon: fas fa-envelope
       Info: me@marcoscarceles.com
-    - Icon: fas fa-globe
-      Info: marcoscarceles.com
-      Link: https://www.marcoscarceles.com
+    # - Icon: fas fa-globe
+    #   Info: https://marcoscarceles.com
+    #   Link: https://www.marcoscarceles.com
     - Icon: fas fa-map-marker-alt
       Info: Madrid, Spain
-    - Icon: fa fa-linkedin
-      Info: LinkedIn
+    - Icon: fab fa-linkedin
+      Info: linkedin.com/in/marcoscarceles
+      Link: https://www.linkedin.com/in/marcoscarceles/
+    - Icon: fab fa-github
+      Info: github.com/marcoscarceles
+      Link: https://github.com/marcoscarceles
+    - Icon: fab fa-twitter
+      Info: x.com/MarcosCarceles
+      Link: https://x.com/MarcosCarceles
+
 
 Profile: I believe all engineers share a passion for perfection, build great products and build them right. In my early career, this led me towards developing technical skills around frameworks and tooling. During my years in the UK, I shifted my focus from what an individual could deliver to what a team or organization could accomplish. Lately, I have kept a balance between engineering, methodologies & team leadership and management.
 

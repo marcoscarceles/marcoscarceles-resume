@@ -4,12 +4,31 @@ defaultContentLanguage = "en"
 theme = "almeida-cv"
 title = "Marcos Cárceles - Resume"
 
+enableRobotsTXT = true
+enableEmoji = true
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
 [params]
-colorDark = "#666"
+enableMetaTags = true
+
 colorLight = "#fff"
+colorDark = "#666"
+
 colorPageBackground = "#ddd"
-colorPrimary = "#0aa"
-colorPrimaryText = "#33333333"
-colorRightColumnBackground = "#f5f5f5"
+
+colorPrimary = "#088"
 colorSecondary = "#aaa"
+
+colorIconPrimary = "#fff"
+colorIconBackground = "#088"
+
+#colorPrimaryText = "#333"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#088"
+
 pages = 2
+
+swapColumns = true
