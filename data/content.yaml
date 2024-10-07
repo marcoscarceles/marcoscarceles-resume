@@ -25,7 +25,7 @@ BasicInfo:
       Link: https://x.com/MarcosCarceles
 
 
-Profile: Like most, I started my career following a passion for technology and building great products, applying the right technology to solve the right problem. Working in Sky News in UK, I discovered the profound impact that the right culture, team dynamics, and leadership can have. So, I shifted my focus to building great teams around empowered individuals. Having developed versatility balancing technical and leadership roles in companies of a very different nature and maturity, I broadened my scope to help multiple teams and engineering organizations grow and thrive.
+Profile: Engineering Manager with a proven track record of leading teams in diverse environments, from small startups to large corporations. Promoter of iterative delivery, building high quality products that delight tens of millions of users. Data-driven leader, championing observability and Operational Excellence. Facilitator of Continuous Improvement boosting companies growth. Advocate of servant leadership, developing enabled empowered teams.
 
 Timeline:
   - Type: Employment
@@ -33,7 +33,11 @@ Timeline:
       Logo: goodnotes-logo.svg
       Name: Goodnotes
     Place: Remote
-    Country: globe
+    Icons:
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F30F.svg" # Asia
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EC-1F1E7.svg" # UK
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1ED-1F1F0.svg" # HK
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EA-1F1F8.svg" # ES
     Positions:
       - Title: Senior Engineering Manager
         Date: Jan 2022 - Sep 2024
@@ -41,22 +45,17 @@ Timeline:
           - Title: Cross-Platform (XP)
             Tagline: "Bring Goodnotes' Digital Paper experience to all popular platforms and dominate the stylus-based note-taking market."
         Details:
-          - "Led the team to achieve **1M monthly active users**, **1M subscribers** and **4.0 week-on-week store ratings**, getting Goodnotes preloaded on Samsung devices since Unpack 2023"
-          - "Developed the team and product from a webviewer PoC built by 6 developers to an area with four squads and 26 cross-functional members."
-          - "Scaled the team while rapidly delivering value, establishing a strong product culture, and balancing ROI. Achieved results by aligning execution with product needs, ensuring team efficiency, fostering team dynamics, and supporting individuals' growth. I transitioned the team from a feature checklist approach to a goal-oriented mindset using OKRs."
-          - "Excelled at achieving SLOs and SLAs, pioneering Operational Excellence at the company."
-          - "In the *broader engineering organisation*, I fostered multiple initiatives:"
-          - "**On Talent**: Revisiting Engineering Career framework, Interview processes,  Onboarding plans and Performance Assessments."
-          - "**On Quality**: Test Case documentation on TestRail, dogfooding, test parties, and techniques such as Quality Assistance."
-          - "**On Project Management**: Advocacy of cross-functional squads and task forces aiding collaboration, avoiding competing priorities, and promoting techniques like Go/No Go check-ins and PPP reports."
-          - "**On Production Operations**: Championing Continuous Delivery and Observability, pioneering the establishment of SLIs, SLOs, and SLAs and Incident Management."
-          - "**On Growth Culture**: Active participant in establishing internship and mentoring programs, as well as other knowledge-sharing and networking practices such as book clubs, functional roundtables, and brown bags."
+          - "Led the team to achieve **1M monthly active users**, **1M subscribers** and **4.0 week-on-week store ratings**, getting Goodnotes preloaded on Samsung devices since Unpack 2023."
+          - "Scaled team and product from a webviewer PoC built by 6 developers to an area with four squads and 26 cross-functional members."
+          - "Rapidly delivered value, establishing a strong product culture, and balancing ROI. Achieved results by aligning execution with product needs, ensuring team efficiency, fostering team dynamics, and supporting individuals' growth. I transitioned the team from a feature checklist approach to a goal-oriented mindset using **OKRs**."
+          - "Championed multiple company-wide Continuous Improvement initiatives on areas like Talent, Quality Assurance, Project Management, Operations and Growth Culture. From hiring, career progression and mentoring initiatives to establishing SLIs, SLOs, SLAs and advocacy for Operational Excellence and Continuous Delivery."
   - Type: Employment
     Employer:
       Logo: eventbrite-logo.svg
       Name: Eventbrite
     Place: Madrid, Spain
-    Country: es
+    Icons:
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EA-1F1F8.svg" # ES
     Positions:
       - Title: Engineering Manager
         Date: Apr 2021 - Jan 2022
@@ -78,7 +77,8 @@ Timeline:
       - Logo: telefonica.png
         Name: Telefónica
     Place: Madrid
-    Country: es
+    Icons:
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EA-1F1F8.svg" # ES
     Positions:
       - Title: Tech Lead / Engineering Manager
         Date: Jan 2018 - Apr 2021
@@ -102,7 +102,9 @@ Timeline:
   - Type: Employment
     Logo: endource.png
     Place: London - Remote
-    Country: globe
+    Icons:
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F30E.svg" # Americas
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EC-1F1E7.svg" # UK
     Employer:
       Logo: endource.png
       Name: Endource
@@ -126,7 +128,8 @@ Timeline:
       - Name: Sky News
         Logo: sky-news.png
     Place: London
-    Country: uk
+    Icons:
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EC-1F1E7.svg" # UK
     Positions:
       - Title: Scrum Master / Engineering Manager
         Date: Oct 2013 - Jul 2014
@@ -135,13 +138,14 @@ Timeline:
       - Title: Technical Architect / Tech Lead - Freelance
         Date: Sep 2010 - Oct 2013
         Details: 
-          - Technical leadership and Delivery of numerous Publishing Platforms and Sites
+          - Technical leadership and Delivery of numerous Publishing Platforms and Sites.
   - Type: Employment
     Employer:
       Name: VASS-IT
       Logo: vass-it.png
     Place: London
-    Country: UK
+    Icons:
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EC-1F1E7.svg" # UK
     Positions:
       - Title: Principal Java Consultant
         Date: Sep 2008 - Sep 2010
@@ -155,7 +159,8 @@ Timeline:
       Name: VASS
       Logo: vass.png
     Place: Madrid
-    Country: es
+    Icons:
+      - "https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EA-1F1F8.svg" # ES
     Positions:
       - Title: J2EE / Vignette Developer
         Date: Sep 2006 - Sep 2008
@@ -183,88 +188,100 @@ OpenSource:
       Link: https://github.com/marcoscarceles/swagger-doc
 
 Skills:
-  Intro: "Having worked on a broad diversity of products, company types, cultures and technical stacks has helped me not only to get exposure to an equally broad set of skills but to become a quick learner and adaptable profile and establish these on sound engineering values and principles."
-  Items:
-    - Value: Scrum
-      Weight: XL
-    - Value: Extreme Programming
-      Weight: XL
-    - Value: Kanban
-      Weight: L
-    - Value: Facilitation
-      Weight: L
-    - Value: Continuous Delivery
-      Weight: L
-    - Value: Trust
-      Weight: L
-    - Value: Feedback
-      Weight: L
-    - Value: Groovy
-      Weight: L
-    - Value: Javascript
-    - Value: Git
-    - Value: Empowerment
-    - Value: Mentoring
-    - Value: Coaching
-    - Value: Nonviolent Communication
-    - Value: Active Listening
-    - Value: Conflict Management
-    - Value: Spring
-    - Value: Microservices
-    - Value: REST
-    - Value: AWS
-    - Value: Lambda
-    - Value: Serverless Framework
-    - Value: Elastic
-    - Value: MongoDB
-    - Value: VueJS
-    - Value: React
-    - Value: Spock
-    - Value: Geb
-    - Value: Gradle
-    - Value: Machine Learning
-    - Value: Python
-      Weight: S
-    - Value: Bash
-      Weight: S
-    - Value: Node.js
-      Weight: S
-    - Value: Swagger
-      Weight: S
-    - Value: PostreSQL
-      Weight: S
-    - Value: MySQL
-      Weight: S
-    - Value: AngularJS
-      Weight: S
-    - Value: JQuery
-      Weight: S
-    - Value: Sass
-      Weight: S
-    - Value: JUnit
-      Weight: S
-    - Value: Mocha
-      Weight: S
-    - Value: Linux
-      Weight: S
-    - Value: RHEL
-      Weight: S
-    - Value: Maven
-      Weight: S
-    - Value: Webpack
-      Weight: S
-    - Value: Docker
-      Weight: S
-    - Value: Convox
-      Weight: S
-    - Value: Kubernetes
-      Weight: S
-    - Value: Git
-      Weight: S
-    - Value: I can't believe you made it this far
-      Weight: S
-    - Value: Sense of humour
-      Weight: S
+  - Type: "Leadership & Management"
+    Intro: ""
+    Core:
+      - Value: Agile
+        Weight: XL
+      - Value: Lean
+        Weight: XL
+      - Value: Scrum
+        Weight: L
+      - Value: Extreme Programming
+        Weight: L
+      - Value: Kanban
+        Weight: L
+    Other:
+      - Value: Facilitation
+        Weight: L
+      - Value: Continuous Delivery
+        Weight: L
+      - Value: Trust
+        Weight: L
+      - Value: Empowerment
+        Weight: L
+      - Value: Active Listening
+      - Value: Feedback
+      - Value: Mentoring
+      - Value: Coaching
+      - Value: Non-Violent Communication
+      - Value: Conflict Management
+  - Type: Technology
+    Intro: "These are complemented by a solid background as Full-Stack Engineer primarly on JVM opensource ecosystem architectures"
+    Core:
+      - Value: Java
+        Weight: L
+      - Value: Groovy
+        Weight: L
+    Other:
+      - Value: Microservices
+      - Value: REST
+      - Value: Javascript
+      - Value: Git
+      - Value: Spring
+      - Value: AWS
+      - Value: Lambda
+      - Value: Serverless Framework
+      - Value: Elastic
+      - Value: MongoDB
+      - Value: VueJS
+      - Value: React
+      - Value: Spock
+      - Value: Geb
+      - Value: Gradle
+      - Value: Machine Learning
+      - Value: Python
+        Weight: S
+      - Value: Bash
+        Weight: S
+      - Value: Node.js
+        Weight: S
+      - Value: Swagger
+        Weight: S
+      - Value: PostreSQL
+        Weight: S
+      - Value: MySQL
+        Weight: S
+      - Value: AngularJS
+        Weight: S
+      - Value: JQuery
+        Weight: S
+      - Value: Sass
+        Weight: S
+      - Value: JUnit
+        Weight: S
+      - Value: Mocha
+        Weight: S
+      - Value: Linux
+        Weight: S
+      - Value: RHEL
+        Weight: S
+      - Value: Maven
+        Weight: S
+      - Value: Webpack
+        Weight: S
+      - Value: Docker
+        Weight: S
+      - Value: Convox
+        Weight: S
+      - Value: Kubernetes
+        Weight: S
+      - Value: Git
+        Weight: S
+      - Value: I can't believe you made it this far
+        Weight: S
+      - Value: Sense of humour
+        Weight: S
 
 Languages:
   - Name: Spanish
