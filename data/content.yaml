@@ -25,7 +25,8 @@ BasicInfo:
       Link: https://x.com/MarcosCarceles
 
 
-Profile: Engineering Manager with a proven track record of leading teams in diverse environments, from small startups to large corporations. Promoter of iterative delivery, building high quality products that delight tens of millions of users. Data-driven leader, championing observability and Operational Excellence. Facilitator of Continuous Improvement boosting companies growth. Advocate of servant leadership, developing enabled empowered teams.
+Profile:
+- "Engineering Manager with 7+ years driving high-performing teams. Proven track record of scaling globally distributed teams delivering SaaS products that delight Millions of users through iterative delivery and cross-functional collaboration. Data-driven leader, championing DevOps culture, Observability and Operational Excellence. Facilitator of Continuous Improvement boosting company growth. Advocate of servant leadership, enabling empowered teams."
 
 Timeline:
   - Type: Employment
@@ -45,10 +46,12 @@ Timeline:
           - Title: Cross-Platform (XP)
             Tagline: "Bring Goodnotes' Digital Paper experience to all popular platforms and dominate the stylus-based note-taking market."
         Details:
-          - "Led the team to achieve **1M monthly active users**, **1M subscribers** and **4.0 week-on-week store ratings**, getting Goodnotes preloaded on Samsung devices since Unpack 2023."
-          - "Scaled team and product from a webviewer PoC built by 6 developers to an area with four squads and 26 cross-functional members."
-          - "Rapidly delivered value, establishing a strong product culture, and balancing ROI. Achieved results by aligning execution with product needs, ensuring team efficiency, fostering team dynamics, and supporting individuals' growth. I transitioned the team from a feature checklist approach to a goal-oriented mindset using **OKRs**."
-          - "Championed multiple company-wide Continuous Improvement initiatives on areas like Talent, Quality Assurance, Project Management, Operations and Growth Culture. From hiring, career progression and mentoring initiatives to establishing SLIs, SLOs, SLAs and advocacy for Operational Excellence and Continuous Delivery."
+          - "Led the product from proof of concept to 1M monthly active users, achieving 4.0 star weekly store ratings and securing a strategic preload partnership with Samsung."
+          - "Championed a growth culture, leading company-wide continuous improvement initiatives in hiring, career progression, QA, and operational excellence (SLIs, SLOs, SLAs, continuous delivery and on-call best practices)."
+          - "Established a strong product culture. Introduced and refined *OKRs* to transition the team from feature-focused delivery to a goal-oriented mindset, driving alignment and efficiency."
+          - "Scaled team from 6 developers to an area peaking at 26 cross-functional members across four squads, boosting growth through mentoring and coaching."
+          - "Supported fellow managers on their growth, driving cross-team collaboration dynamics and coaching on topics like team ceremonies, career progression an conflict resolution."
+
   - Type: Employment
     Employer:
       Logo: eventbrite-logo.svg
@@ -182,8 +185,8 @@ OpenSource:
   Projects:
     - Name: https://github.com/puneetbehl/elasticsearch-grails-plugin
       Link: https://github.com/puneetbehl/elasticsearch-grails-plugin
-    - Name: https://github.com/marcoscarceles/elasticsearch-lite
-      Link: https://github.com/marcoscarceles/elasticsearch-lite
+    - Name: https://gitlab.com/marcos.carceles/elasticsearch-lite
+      Link: https://gitlab.com/marcos.carceles/elasticsearch-lite
     - Name: https://github.com/marcoscarceles/swagger-doc
       Link: https://github.com/marcoscarceles/swagger-doc
 
@@ -201,6 +204,8 @@ Skills:
         Weight: L
       - Value: Kanban
         Weight: L
+      - Value: Shape Up
+        Weight: M
     Other:
       - Value: Facilitation
         Weight: L
@@ -232,9 +237,10 @@ Skills:
       - Value: AWS
       - Value: Lambda
       - Value: Serverless Framework
+      - Valye: PostgreSQL
       - Value: Elastic
       - Value: MongoDB
-      - Value: VueJS
+      - Value: Vue.js
       - Value: React
       - Value: Spock
       - Value: Geb
