@@ -47,10 +47,10 @@ Timeline:
             Tagline: "Bring Goodnotes' Digital Paper experience to all popular platforms and dominate the stylus-based note-taking market."
         Details:
           - "Led the product from proof of concept to 1M monthly active users, achieving 4.0 star weekly store ratings and securing a strategic preload partnership with Samsung."
-          - "Championed a growth culture, leading company-wide continuous improvement initiatives in hiring, career progression, QA, and operational excellence (SLIs, SLOs, SLAs, continuous delivery and on-call best practices)."
+          - "Championed a growth culture by driving company-wide continuous improvement initiatives in hiring, career progression, QA, and operational excellence (SLIs, SLOs, SLAs, continuous delivery, on-call and incident management best practices)."
           - "Established a strong product culture. Introduced and refined *OKRs* to transition the team from feature-focused delivery to a goal-oriented mindset, driving alignment and efficiency."
-          - "Scaled team from 6 developers to an area peaking at 26 cross-functional members across four squads, boosting growth through mentoring and coaching."
-          - "Supported fellow managers on their growth, driving cross-team collaboration dynamics and coaching on topics like team ceremonies, career progression an conflict resolution."
+          - "Scaled team from 6 developers to an area peaking at 26 cross-functional members across four squads, fostering growth through mentoring and coaching."
+          - "Supported fellow managers in their growth by driving cross-team collaboration and coaching on team ceremonies, career progression, and conflict resolution."
 
   - Type: Employment
     Employer:
@@ -70,7 +70,7 @@ Timeline:
           - "Improved overall team efficiency and predictability by identifying challenges on the team's SDLC, addressing goal setting, product definition, and estimations and providing the team with a framework for iterative value delivery."
           - "Minimised the impact of sustained lack of Product Management roles and actively participated in its recruitment."
           - "Championed Operational Excellence and Quality, providing guidelines for the e-commerce pillar and achieving remarkable results on Quality SLAs by establishing a continuous stream of production support, promoting team ownership and accountability."
-          - "Enabled the execution of Eventbrite's 3-Year Technical Roadmap, unblocking the migration of Eventbrite's critical systems (OrderService) by shifting the area mindset from the execution of technical tasks distributed among multiple teams to the collaborative achievement of iterative high-level goals based on the Use Cases."
+          - "Enabled the execution of Eventbrite's 3-Year Technical Roadmap, unblocking the migration of Eventbrite's SaaS critical systems (OrderService) by shifting the area mindset from the execution of technical tasks distributed among multiple teams to the collaborative achievement of iterative high-level goals based on the Use Cases."
           - "Supported Eventbrite's talent growth, setting an example for personal development, hiring, and PIP execution, and established guidelines for internship projects."
 
   - Type: Employment
@@ -191,82 +191,80 @@ OpenSource:
       Link: https://github.com/marcoscarceles/swagger-doc
 
 Skills:
-  - Type: "Leadership & Management"
+  - Type: "Engineering Leadership"
     Intro: ""
+    Weight: "XL"
     Core:
-      - Value: Agile
-        Weight: XL
-      - Value: Lean
-        Weight: XL
-      - Value: Scrum
-        Weight: L
-      - Value: Extreme Programming
-        Weight: L
-      - Value: Kanban
-        Weight: L
-      - Value: Shape Up
-        Weight: M
-    Other:
-      - Value: Facilitation
-        Weight: L
+      - Value: XP, Agile & Lean
+      - Value: Remote Team Management
+      - Value: Cross-functional collaboration
       - Value: Continuous Delivery
-        Weight: L
+      - Value: Operational Excellence
+    Other:
       - Value: Trust
-        Weight: L
       - Value: Empowerment
-        Weight: L
-      - Value: Active Listening
-      - Value: Feedback
+      - Value: DORA Metrics
+      - Value: Facilitation
       - Value: Mentoring
       - Value: Coaching
-      - Value: Non-Violent Communication
       - Value: Conflict Management
-  - Type: Technology
-    Intro: "These are complemented by a solid background as Full-Stack Engineer primarly on JVM opensource ecosystem architectures"
+        Weight: S
+      - Value: Active Listening
+        Weight: S
+      - Value: Non-Violent Communication
+        Weight: S
+  - Type: Backend Stack
+    Weight: "L"
     Core:
       - Value: Java
         Weight: L
       - Value: Groovy
         Weight: L
+      - Value: Microservices architecture
+      - Value: RESTful APIs
     Other:
-      - Value: Microservices
-      - Value: REST
-      - Value: Javascript
-      - Value: Git
-      - Value: Spring
       - Value: AWS
       - Value: Lambda
-      - Value: Serverless Framework
-      - Valye: PostgreSQL
-      - Value: Elastic
+      - Value: PostgreSQL
       - Value: MongoDB
-      - Value: Vue.js
-      - Value: React
-      - Value: Spock
-      - Value: Geb
-      - Value: Gradle
-      - Value: Machine Learning
-      - Value: Python
-        Weight: S
-      - Value: Bash
-        Weight: S
-      - Value: Node.js
+      - Value: Elastic
+      - Value: Spring
         Weight: S
       - Value: Swagger
         Weight: S
-      - Value: PostreSQL
-        Weight: S
-      - Value: MySQL
-        Weight: S
+  - Type: Frontend Stack
+    Weight: "S"
+    Other:
+      - Value: Javascript
+      - Value: Vue.js
+      - Value: React
       - Value: AngularJS
         Weight: S
       - Value: JQuery
         Weight: S
       - Value: Sass
         Weight: S
-      - Value: JUnit
-        Weight: S
       - Value: Mocha
+        Weight: S
+      - Value: Webpack
+        Weight: S
+
+  - Type: Tools & Others
+    Core:
+      - Value: Datadog
+      - Value: Machine Learning
+    Other:
+      - Value: Git
+      - Value: Spock
+      - Value: Geb
+      - Value: Gradle
+      - Value: Python
+        Weight: S
+      - Value: Bash
+        Weight: S
+      - Value: Node.js
+        Weight: S
+      - Value: JUnit
         Weight: S
       - Value: Linux
         Weight: S
@@ -274,15 +272,11 @@ Skills:
         Weight: S
       - Value: Maven
         Weight: S
-      - Value: Webpack
-        Weight: S
       - Value: Docker
         Weight: S
       - Value: Convox
         Weight: S
       - Value: Kubernetes
-        Weight: S
-      - Value: Git
         Weight: S
       - Value: I can't believe you made it this far
         Weight: S
