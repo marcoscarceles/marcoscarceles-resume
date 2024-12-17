@@ -66,7 +66,7 @@ Timeline:
           - "Delivered key user-facing projects on form management and regulatory tax compliance projects, removing blockers by identifying gaps in definition and cross-department coordination. Ultimately addressing them to eliminate delivery risks."
           - "Improved overall team efficiency and predictability by identifying challenges on the team's SDLC, addressing goal setting, product definition, and estimations and providing the team with a framework for iterative value delivery."
           - "Minimised the impact of sustained lack of Product Management roles and actively participated in its recruitment."
-          - "Championed Operational Excellence and Quality, providing guidelines for the e-commerce pillar and achieving remarkable results on Quality SLAs by establishing a continuous stream of production support, promoting team ownership and accountability."
+          - "Championed Operational Excellence and Quality, providing guidelines for the e-commerce pillar and achieving remarkable results on Quality SLAs by establishing a continuous stream of production support, ultimately promoting team ownership and accountability."
           - "Enabled the execution of Eventbrite's 3-Year Technical Roadmap, unblocking the migration of Eventbrite's critical systems (OrderService) by shifting the area mindset from the execution of technical tasks distributed among multiple teams to the collaborative achievement of iterative high-level goals based on the Use Cases."
           - "Supported Eventbrite's talent growth, setting an example for personal development, hiring, and PIP execution, and established guidelines for internship projects."
 
@@ -178,7 +178,7 @@ Education:
     Date: 2001 - 2006
 
 OpenSource:
-  Intro: "I am a avid supporter of open source technologies, not only having used them on most of my products but actively supporting their communities. In the past I have, myself maintained and contributed to a few like:"
+  Intro: "I am a avid supporter of open source technologies, not only having used them on most of my products but actively supporting their communities. In the past I have, myself, maintained and contributed to a few like:"
   Projects:
     - Name: https://github.com/puneetbehl/elasticsearch-grails-plugin
       Link: https://github.com/puneetbehl/elasticsearch-grails-plugin
@@ -291,8 +291,8 @@ Languages:
 
 Diplomas:
   - Coursera's Machine Learning Certificate
-  - Scrum Alliance Certied Scrum Master
-  - Oracle Certied Java SE6 Programmer
+  - Scrum Alliance Certified Scrum Master
+  - Oracle Certified Java SE6 Programmer
 
 Recognitions:
 - "Twice Winner of BBC's #NewsHACK"
