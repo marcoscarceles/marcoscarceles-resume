@@ -278,6 +278,10 @@ Skills:
         Weight: S
       - Value: Kubernetes
         Weight: S
+      - Value: Flutter
+        Weight: S
+      - Value: Dart
+        Weight: S
       - Value: I can't believe you made it this far
         Weight: S
       - Value: Sense of humour
